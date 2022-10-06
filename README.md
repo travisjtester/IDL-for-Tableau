@@ -1,7 +1,7 @@
 # IBM-Tableau
 IBM Design Language Color Palette for Tableau Data Visualizations
 
-Project Description:
+### Project Description:
 
 Welcome aboard fellow data viz designer, this is where you will find the Tableau Preferences file which contains the accessible colors used in the IBM Design Language Color palette.
 
@@ -11,7 +11,7 @@ I researched many companies Design Systems, and found IBM Design Language to be 
 
 By using this prefernce file for Tableau, you will have access to the entire library of colors seen within the IBM Design Language colors.
 
-How to Install and Use: 
+### How to Install and Use: 
 
 First, navigate to your Tableau Repository, usually located at a similar path if using Windows: 
 "C:\Users\yourcomputername\Documents\My Tableau Repository\Preferences.tps"
