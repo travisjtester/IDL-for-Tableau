@@ -1,4 +1,4 @@
-# IBM-Tableau
+# IDL-for-Tableau
 IBM Design Language Color Palette for Tableau Data Visualizations
 
 ## 📝 Project Description:
@@ -24,7 +24,7 @@ From there, I would recommend making a backup copy of the original Preferences.t
 ![settings-v3](https://user-images.githubusercontent.com/88358061/194199371-fd5709aa-728c-4378-a52d-c015b5db434d.png)
 
 
-The next time you launch Tableau, you will see the IBM Colors.
+The next time you launch Tableau, you will see the IDL Colors.
 
 Happy Data Vizzing!
 
@@ -32,3 +32,19 @@ Happy Data Vizzing!
 
 ## 🌟 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Versioning
+
+This project uses [Semantic Versioning](https://semver.org/) for versioning.
+
+## Authors
+
+Travis Tester
+
+## License
+
+This project is licensed under the CC0 1.0 Universal Creative Commons License
+
+## Acknowledgments
+
+IBM Design Language
