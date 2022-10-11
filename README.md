@@ -7,9 +7,9 @@ Welcome aboard fellow data viz designer, this is where you will find the Tableau
 
 As a Data Analyst with a graphic design background, I was less than thrilled with the color options that come baked into Tableau by default. I found many of the color options to lacking in ability to grab attention or be accessible. Tableau also limits users to only 16 Custom Colors inside their Desktop application if they want to use specific hex color codes, and this was simply not enough for this designer. Thus, I set out on a quest to import additional color themes for more beautiful visualizations.
 
-I researched many companies Design Systems, and found [IBM Design Language](https://www.ibm.com/design/language/color) to be one of the best. From there, I edited the Preferences.tps file within Tableau, and added their hex color codes to the settings.
+I researched many companies Design Systems, and found [IBM Design Language](https://www.ibm.com/design/language/color) to be one of the best. From there, I edited the Preferences.tps file within a text editor, and added their hex color codes to the preference file settings.
 
-By using this preference file for Tableau, you will have access to the entire library of colors seen within the IBM Design Language color palette.
+By using this preference file for Tableau, you will have access to the entire library of colors seen within the IBM Design Language color palette. You will find a wide variety of palettes useful for data visualization, including categorical, sequential, and diverging. 
 
 ![color](https://user-images.githubusercontent.com/88358061/194197991-6a6bf0e8-e7d3-4dee-83e4-178cc162871c.png)
 
