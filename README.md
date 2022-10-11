@@ -5,7 +5,7 @@ IBM Design Language Color Palette for Tableau Data Visualizations
 
 Welcome aboard fellow data viz designer, this is where you will find the Tableau Preferences file which contains the colors used in the IBM Design Language Color palette.
 
-As a Data Analyst with a graphic design background, I was a little underwhelmed with the color options that come baked into Tableau by default. Many of the color options were not attention grabbing or accessible enough, in my opinion. Tableau also limits users to only 16 Custom Colors inside their Desktop application if they want to use specific hex color codes, and this was simply not enough for this designer. Thus, I set out on a quest to import additional color themes for more beautiful visualizations.
+As a Data Analyst with a graphic design background, I was a little underwhelmed with the color options that come baked into Tableau by default. Many of the color options were not attention grabbing or accessible enough, in my opinion. Tableau also limits users to only 16 custom colors inside their desktop application if they want to use specific hex color codes, and this was simply not enough for this designer. Thus, I set out on a quest to import additional color themes for more beautiful visualizations.
 
 I researched many companies design systems, and found [IBM Design Language](https://www.ibm.com/design/language/color) to be one of the best. From there, I edited the Preferences.tps file within a text editor, and added their hex color codes to the preference file settings.
 
